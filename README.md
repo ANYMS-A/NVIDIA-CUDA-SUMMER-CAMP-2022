@@ -1,12 +1,13 @@
 # NVIDIA CUDA SUMMER CAMP 2022
 
-The slides and lectures recording are both in Chinese.git 
+The slides and lectures recording are both in Chinese
 
-## Video Recoding
-Link: 
+## Video Recoding & Slides
 
-## Slides
-Link:
+Link: [Baidu Disk Link](https://pan.baidu.com/s/183VC36bBFCIKFrdyUfvRUQ)
+
+Credential: ukwt
+
 
 ## Learning notes
 Link:
